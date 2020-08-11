@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a7fd8f0.chunk.css",
+    "main.js": "/static/js/main.7dd43937.chunk.js",
+    "main.js.map": "/static/js/main.7dd43937.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.43704e3d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.43704e3d.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.96425955.chunk.js": "/static/js/2.96425955.chunk.js",
+    "static/js/2.96425955.chunk.js.map": "/static/js/2.96425955.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2be36d18cbd48ee39bdb0bf9ea493086.js": "/precache-manifest.2be36d18cbd48ee39bdb0bf9ea493086.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.5a7fd8f0.chunk.css.map": "/static/css/main.5a7fd8f0.chunk.css.map",
+    "static/js/2.96425955.chunk.js.LICENSE.txt": "/static/js/2.96425955.chunk.js.LICENSE.txt",
+    "static/media/navbar.css": "/static/media/Billabong.37eeadde.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43704e3d.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.96425955.chunk.js",
+    "static/css/main.5a7fd8f0.chunk.css",
+    "static/js/main.7dd43937.chunk.js"
+  ]
+}
