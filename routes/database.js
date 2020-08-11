@@ -10,11 +10,11 @@ router.get("/", (req, res) => {
 });
 
 router.get("/mongo", (req, res) => {
-  mongo.viewDB("UserInfo", (docs) => res.json(docs));
+  mongo.viewDB("userInfo", (docs) => res.json(docs));
 });
 
 router.delete("/mongo", (req, res) => {
-  mongo.clearCollection("group");
+  mongo.clearCollection("userInfo");
   res.send(200);
 });
 
